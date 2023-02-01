@@ -1,6 +1,6 @@
 # Python game- Issa Shooter Game
 
-I built this game as a coding exercise in my python learning journey. It can be run directly from any code editor that supports the python env.
+A classic 2D multi-player shooter game, built with Python. I built this game as a coding challange after getting to grips with the fundamentals of Python programming. It runs directly from any code editor that supports the python env.
 
 # ![Alt text](./screenshots/shooter_1.PNG "Title")
 # ![Alt text](./screenshots/shooter_2.PNG "Title")
